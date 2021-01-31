@@ -1,6 +1,6 @@
 {
-  "name": "ls",
-  "version": "0.1.0",
+  "name": "NooksDesktop",
+  "version": "0.2.0",
   "description": "Desktop Releases",
   "main": "index.js",
   "scripts": {
